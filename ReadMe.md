@@ -1,6 +1,6 @@
 ## Setting up
 ```buildoutcfg
-Download and Install python from [here](https://www.python.org/downloads/)
+Download and Install python from https://www.python.org/downloads/
 ```
 
 Requirements
